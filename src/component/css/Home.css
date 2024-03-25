@@ -266,10 +266,16 @@ input{
   .btn-cont{
     margin-top: 10px;
   }
-  .service{
+  .service-cont{
     display: grid;
     grid-template-columns: 1fr;
+    padding-top: 20px;
+  }
+  .service{
     padding: 20px;
+  }
+  .time{
+    display: block;
   }
 
 }
