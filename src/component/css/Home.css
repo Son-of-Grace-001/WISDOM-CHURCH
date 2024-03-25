@@ -238,6 +238,7 @@ input{
   }
   .event{
     text-align: center;
+    opacity: 0.8;
   }
   .event-div{
     padding-top: 20px;
