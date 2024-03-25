@@ -286,4 +286,7 @@ input{
   .card:hover{
     transform: none;
   }
+  .inner-service{
+    display: block;
+  }
 }
