@@ -79,8 +79,10 @@ h1,h2,h3,h4,h5,h6{
   padding-top: 30px;
   background-color: rgba(255, 217, 0, 0.028);
 }
-.event{
+.event,
+.nugg{
   text-align: center;
+  opacity: 0.8;
 }
 .event-div{
   padding-top: 30px;

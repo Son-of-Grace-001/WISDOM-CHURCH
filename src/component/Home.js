@@ -183,6 +183,7 @@ export const Home = () => {
             </div>
           </div>
           <div className='service-right'>
+            <h3 className='nugg'>Weekly Nugget</h3>
             <img src={nugget} alt='nugget'/>
           </div>
         </div>
