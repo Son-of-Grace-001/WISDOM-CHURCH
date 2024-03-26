@@ -291,6 +291,10 @@ input{
   }
   .wednesday{
     margin-top: 10px;
+    border-radius: 8px;
+  }
+  .sabbath{
+    border-radius: 8px;
   }
   .ptime{
     text-align: center;
